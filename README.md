@@ -1,3 +1,4 @@
+[2xhubNewUi.txt](https://github.com/armch063/...../files/9078541/2xhubNewUi.txt)
 [1xliiHub_V3_BF.lua.txt](https://github.com/armch063/...../files/8750840/1xliiHub_V3_BF.lua.txt)
 [V33.txt](https://github.com/armch063/...../files/8747456/V33.txt)
 [River_Gui.txt](https://github.com/armch063/...../files/8746867/River_Gui.txt)
